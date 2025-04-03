@@ -18,6 +18,6 @@
   "homepage": "https://github.com/juruohejiarui/Homework-UCUG1800-time_map#readme",
   "description": "",
   "devDependencies": {
-    "electron": "^35.1.2"
+    "electron": "^35.1.3"
   }
 }
